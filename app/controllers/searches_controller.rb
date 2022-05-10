@@ -1,6 +1,6 @@
 class SearchesController < ApplicationController
   
-  def search
+  def searc
   end
   
 end
